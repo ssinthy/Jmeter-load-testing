@@ -29,6 +29,10 @@ The test simulates 120,000 users over a 12-hour period (downscaled in 3 test sta
 ### Load testing
 ![image](https://github.com/user-attachments/assets/d02c9b33-9412-459e-a52b-073523ada097)
 
+### Stress testing
+![image](https://github.com/user-attachments/assets/b539ad68-04a0-418e-aaa6-ae5afe485622)
+
+
 ## Generated HTML reports
 ### Load testing
 - Load testing Iteration 1
